@@ -1,0 +1,42 @@
+Ad: sasd
+E-Posta: asd
+Eğitim Durumu: üniversite
+Askerlik Durumu: Yapılmadı
+Hobiler: Müzik
+CV ID: cv_654b92192d579.pdf
+
+Ad: sasd
+E-Posta: asd
+Eğitim Durumu: üniversite
+Askerlik Durumu: Yapılmadı
+Hobiler: Müzik
+CV ID: cv_654b926d89c96.pdf
+
+Ad: sasd
+E-Posta: asd
+Eğitim Durumu: üniversite
+Askerlik Durumu: Yapılmadı
+Hobiler: Müzik
+CV ID: cv_654b92bbb20fd.pdf
+
+Ad: sasd
+E-Posta: asd
+Eğitim Durumu: üniversite
+Askerlik Durumu: Yapılmadı
+Hobiler: Müzik
+CV ID: cv_654b92d0235f0.pdf
+
+Ad: sasd
+E-Posta: asd
+Eğitim Durumu: üniversite
+Askerlik Durumu: Yapılmadı
+Hobiler: Müzik
+CV ID: cv_654b93f4032a6.pdf
+
+Ad: bilge
+E-Posta: bilgeozcan@gmail.com
+Eğitim Durumu: üniversite
+Askerlik Durumu: muaf
+Hobiler: Müzik
+CV ID: cv_654b941a17c84.pdf
+
